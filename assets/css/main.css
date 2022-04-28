@@ -6,9 +6,6 @@
 ========================================*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 html {
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
   scroll-behavior: smooth;
 }
 
@@ -19,8 +16,6 @@ body {
   color: #888;
   overflow-x: hidden;
   overflow-y: auto;
-  height: 100%;
-  width: 100%;
   font-size: 15px;
 }
 
