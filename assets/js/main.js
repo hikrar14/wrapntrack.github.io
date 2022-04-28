@@ -8,12 +8,11 @@ Author: GrayGrids
 
     window.onload = function () {
         window.setTimeout(fadeout, 500);
-        /*window.scrollTo(0, 0);*/
     }
 
-   /* window.onbeforeunload = function () {
+    window.onbeforeunload = function () {
         window.scrollTo(0, 0);
-    }*/
+    }
 
     function fadeout() {
         document.querySelector('.preloader').style.opacity = '0';
