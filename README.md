@@ -8,7 +8,7 @@ All of the number figures here are made-up, so don't be deceived. Also, I happen
 
 ## creeedits!?
 As I said before, big thanks to Graygrids Team for making an awesome template.
-I'm using this template here: https://uideck.com/templates/appvilla/).
+I'm currently using this template: https://uideck.com/templates/appvilla/
 
 My computer instructor teacher from my lovely high school, SMAMDA Surabaya, 
 big uwu thanke...
