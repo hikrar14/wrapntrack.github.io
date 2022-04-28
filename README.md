@@ -1,5 +1,3 @@
-# wrapntrack.github.io
-
 ![Logobigguwhitu](https://hikrar14.github.io/wrapntrack.github.io/assets/images/wrap/logobigguwhitu.png)
 
 # WRAP'n'Track
@@ -12,7 +10,7 @@ All of the number figures here are made-up, so don't be deceived. Also, I happen
 As I said before, big thanks to Graygrids Team for making an awesome template.
 I'm using this template here: https://uideck.com/templates/appvilla/).
 
-My computer instructor teacher from my lovely high school SMAMDA Surabaya, 
+My computer instructor teacher from my lovely high school, SMAMDA Surabaya, 
 big uwu thanke...
 
 *ok what the hell lol (¬‿¬)*
