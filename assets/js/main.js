@@ -10,6 +10,10 @@ Author: GrayGrids
         window.setTimeout(fadeout, 500);
     }
 
+    window.onbeforeunload = function () {
+        window.scrollTo(0, 0);
+    }
+
     function fadeout() {
         document.querySelector('.preloader').style.opacity = '0';
         document.querySelector('.preloader').style.display = 'none';
