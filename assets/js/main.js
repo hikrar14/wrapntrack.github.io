@@ -8,6 +8,7 @@ Author: GrayGrids
 
     window.onload = function () {
         window.setTimeout(fadeout, 500);
+        window.scrollTo(0, 0);
     }
 
     window.onbeforeunload = function () {
