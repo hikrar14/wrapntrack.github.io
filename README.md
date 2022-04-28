@@ -1,6 +1,6 @@
 # wrapntrack.github.io
 
-![Logobiggu](https://hikrar14.github.io/wrapntrack.github.io/assets/images/wrap/logobiggu.png)
+![Logobiggu](https://hikrar14.github.io/wrapntrack.github.io/assets/images/wrap/logobigguwhitu.png)
 
 # WRAP'n'Track
 A personal HTML of a project of mine for education purposes. All credit still goes to Graygrids Team for making a great template.
