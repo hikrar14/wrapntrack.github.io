@@ -1,4 +1,4 @@
-![Logobigguwhitu](https://hikrar14.github.io/wrapntrack.github.io/assets/images/wrap/logobigguwhitu.png)
+![Logobigguwhitu](https://hikrar14.github.io/wrapntrack.github.io/assets/images/wrap/logobigguwhituneuomorphism.png)
 
 # WRAP'n'Track
 A personal HTML of a project of mine for education purposes. All credit goes to Graygrids Team for the template.
