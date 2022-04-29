@@ -1994,10 +1994,8 @@ ol {
 /*padding hero-area original valuenya 180px 0 120px 0*/
 .hero-area {
   position: relative;
-  padding: 180px 0 50px 0;
+  padding: 180px 0 120px 0;
   background: #4a8fe0;
-  margin: 50px;
-  opacity: 50%;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
