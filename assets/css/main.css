@@ -1406,8 +1406,8 @@ ol {
 	Start Header CSS
 ========================================*/
 #background-video {
-  width: 150%;
-  height: 150%;
+  width: 129%;
+  height: 129%;
   object-fit: cover;
   position: absolute;
   left: 0;
@@ -1994,7 +1994,7 @@ ol {
 /*padding hero-area original valuenya 180px 0 120px 0*/
 .hero-area {
   position: relative;
-  padding: 180px 0 50px 0;
+  padding: 180px 0 120px 0;
   background: #4a8fe0;
 }
 
