@@ -1406,8 +1406,8 @@ ol {
 	Start Header CSS
 ========================================*/
 #background-video {
-  width: 129%;
-  height: 129%;
+  width: 115%;
+  height: 115%;
   object-fit: cover;
   position: absolute;
   left: 0;
