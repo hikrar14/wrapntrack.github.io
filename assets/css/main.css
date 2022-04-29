@@ -1406,12 +1406,12 @@ ol {
 	Start Header CSS
 ========================================*/
 #background-video {
-  width: 121%;
-  height: 121%;
+  width: 130%;
+  height: 130%;
   object-fit: cover;
   position: absolute;
   left: 0;
-  right: 120px;
+  right: 150px;
   top: 0;
   bottom: 0;
   z-index: 1;
