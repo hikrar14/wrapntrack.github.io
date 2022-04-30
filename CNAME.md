@@ -1,1 +1,1 @@
-https://jaffanto.site/
+http://jaffanto.site
