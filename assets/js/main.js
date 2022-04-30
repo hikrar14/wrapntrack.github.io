@@ -125,14 +125,15 @@ Author: GrayGrids
         navbarToggler.classList.toggle("active");
     });
 
-    // Safari video background fix... i guess?
+    /* Safari video background fix... i guess?
+    ngga jadi, soale ngga isok lol
     <video id="background-video" muted autoplay>
         <script>
             var bgvideo = document.getElementById("background-video")
             bgvideo.muted = true;
             bgvideo.play();
             </script> 
-    </video>
+    </video>*
 
 
     /*===== matiin right-click percobaan pertama, tapi gagal soalnya dibawah var clientnya paling bawah xD
